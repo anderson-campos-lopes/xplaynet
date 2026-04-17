@@ -1,9 +1,21 @@
 body {
-    background-color: lightgreen;
+    background-color: white;
 }
 
 h1 {
   text-align: center;
   font-family: Arial;
   font-size: 8vh;
+}
+
+ul {
+  display: flex;
+  list-style-type: none;
+  gap: 10%;
+  background-color: black;
+  color: white;
+  font-size: 16px;
+  text-align: justify;
+  font-family: Arial;
+  padding: 10px;
 }
