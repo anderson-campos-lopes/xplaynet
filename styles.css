@@ -18,4 +18,14 @@ ul {
   text-align: justify;
   font-family: Arial;
   padding: 10px;
+  
+}
+
+#divLogin {
+  width: 90%;
+  height: 25%;
+  border: 2px solid black;
+  border-radius: 10px;
+  justify-content: center;
+  padding: 10px;
 }
