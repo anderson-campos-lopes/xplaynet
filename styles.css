@@ -17,7 +17,7 @@ ul {
   font-size: 16px;
   text-align: justify;
   font-family: Arial;
-  padding: 10px;
+  padding: 5px;
   width: 100%;
 }
 
@@ -27,5 +27,5 @@ ul {
   border: 2px solid black;
   border-radius: 10px;
   justify-content: center;
-  padding: 10px;
+  padding: 3px;
 }
