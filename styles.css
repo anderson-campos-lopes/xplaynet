@@ -19,6 +19,7 @@ ul {
   font-family: Arial;
   padding: 5px;
   width: 100%;
+  justify-content: space-between;
 }
 
 #divLogin {
